@@ -1,1 +1,1 @@
-This app is underdevelopment at the moment. :)
+This app is under development at the moment. :)
